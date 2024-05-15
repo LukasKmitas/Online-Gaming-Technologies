@@ -1,3 +1,17 @@
 This is the link to onedrive for the video
 
 https://setuo365-my.sharepoint.com/:v:/g/personal/c00252129_setu_ie/EeYy4o3Rd1BMtr798mbqe0wBf1FudzG66ZLN3wsbu4GTDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hpdU6J
+
+
+
+
+Unity project state 
+
+If you want to play the game yourself you need to go into a previous commit due 
+to other people working on the project they have it left unfinished so it doesnt work on the latest
+
+but the code is the same in the latest
+
+This commit hash works the best
+->	68d49957ea96c06c35bb59b4ab15575a27f28d6e
+or you can go any before before april 21st
